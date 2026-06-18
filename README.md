@@ -1,7 +1,5 @@
-# retail-sales-data-engineering-pipeline
-End-to-end Data Engineering pipeline using Python, SQL, SQLite, and Data Visualization
 # Retail Sales Data Engineering Pipeline & Analytics Dashboard
-
+End-to-end Data Engineering pipeline using Python, SQL, SQLite, and Data Visualization
 ## Overview
 
 This project demonstrates an end-to-end Data Engineering pipeline that ingests retail sales data, performs data transformations, loads processed data into a database, and generates analytical dashboards.
