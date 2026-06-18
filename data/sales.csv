@@ -1,0 +1,11 @@
+Order_ID	Product	Category	Quantity	Price	Order_Date
+1001	Laptop	Electronics	2	1200	01-01-2026
+1002	Phone	Electronics	1	800	02-01-2026
+1003	Chair	Furniture	3	150	03-01-2026
+1004	Table	Furniture	2	300	04-01-2026
+1005	Headphones	Electronics	5	100	05-01-2026
+1006	Monitor	Electronics	2	250	06-01-2026
+1007	Sofa	Furniture	1	900	07-01-2026
+1008	Keyboard	Electronics	4	50	08-01-2026
+1009	Desk	Furniture	2	400	09-01-2026
+1010	Mouse	Electronics	6	25	10-01-2026
