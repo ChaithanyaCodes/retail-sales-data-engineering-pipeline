@@ -77,8 +77,3 @@ Created Python dashboards showing:
 - Category sales
 - Top products
 - Sales trends
-
-
----
-
-## Project Structure
